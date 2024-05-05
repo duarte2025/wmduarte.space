@@ -1,0 +1,3 @@
+[submodule "themes/teko"]
+	path = themes/teko
+	url = https://github.com/duarte2025/teko.git
