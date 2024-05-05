@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "Sobre"
 description = "Hugo, the world’s fastest framework for building websites"
 date = "2024-05-04"
 aliases = ["about-pt-br","about-hugo","contato"]
